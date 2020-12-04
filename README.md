@@ -5,6 +5,8 @@ If you are in need of a security awareness program, but are having difficulty ge
 
 I recommend starting with the "What Is Cyber Tuesday?" e-mail first so that users know that it is coming and to look out for furture e-mails.  Then there are 26 additional Cyber Tuesday e-mails that you can send each Tuesday throughout the year (with some being seasonally appropriate).  After you're done with the 26, or are just interested in making your own, I have included the original template file for creating further Cyber Tuesday e-mails.
 
+Be sure to read through the e-mails as there are places to insert company name, IT team designation, company logo, etc.
+
 Stay cool, stay safe, stay grounded.
 
 \- Winter
