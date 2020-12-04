@@ -7,4 +7,4 @@ I recommend starting with the "What Is Cyber Tuesday?" e-mail first so that user
 
 Stay cool, stay safe, stay grounded.
 
-- Winter
+-- Winter
