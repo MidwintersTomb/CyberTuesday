@@ -1,5 +1,5 @@
 # CyberTuesday
-##A quick start to creating a basic security awareness program
+## A quick start to creating a basic security awareness program
 
 If you are in need of a security awareness program, but are having difficulty getting buy-in for management, this is a low effort way to get a program in the door.  This is a series of e-mails teaching security and IT awareness applicable to users both inside and outside of a corporate environment, including things such as password security, awareness of phishing scams around tax season and black friday, and social media awareness.  These were originally written for a US based audience, however, feel free to modify as you see fit.
 
